@@ -1,0 +1,1 @@
+Design Patterns examples based on the book "Design Patterns: Elements of Reusable Object-Oriented Software (1994)" by the so-called "Gang of Four" ("GoF") (Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides).
