@@ -17,8 +17,8 @@ namespace DecoratorSolution
 
         public void Write(string data)
         {
-            var encrypted = Compress(data);
-            stream.Write(encrypted);
+            var compressed = Compress(data);
+            stream.Write(compressed);
         }
 
         private string Compress(string data)
